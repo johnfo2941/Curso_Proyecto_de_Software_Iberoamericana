@@ -1,8 +1,10 @@
-//Historia 1 Login al sistema 
 
-// En este Documento se muestran las funciones principales, para el respectivo funcionamiento se requieres las llaves de acceso a firebase
+
+// En este documento se muestran las funciones principales, para el respectivo funcionamiento se requieren las llaves de acceso a firebase por ende estos fragmentos de código, corresponde a las funciones según historias de usuario.
 // se describe funcionamiento en cada comentario.
 
+
+//Historia 1 Login al sistema 
 function Ingreso() {
     var email = document.getElementById('email').value;
     var contraseña = document.getElementById('pass').value;
